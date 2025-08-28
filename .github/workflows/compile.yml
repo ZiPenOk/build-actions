@@ -7,9 +7,9 @@ name: 编译主程序
 on:
   push:
     branches:
-      - main
+      - dev
     paths:
-      - 'buconfig'
+      - 'build/Immortalwrt/relevance/start'
 
 env:
   GIT_REPOSITORY: ${{github.repository}}
