@@ -79,7 +79,6 @@ CONFIG_PACKAGE_libuci-lua=y
 CONFIG_PACKAGE_libudns=y
 CONFIG_PACKAGE_libyaml=y
 CONFIG_PACKAGE_libzstd=y
-CONFIG_PACKAGE_luci-app-ttyd=n
 CONFIG_PACKAGE_luci-app-store=y
 CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-passwall=y
