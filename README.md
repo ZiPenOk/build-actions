@@ -282,3 +282,5 @@ CONFIG_TARGET_armsr_armv8_DEVICE_generic=y
  [`actions`](https://github.com/actions/upload-artifact)
  [`svenstaro`](https://github.com/svenstaro/upload-release-action)
  [`jerrykuku`](https://github.com/jerrykuku/luci-theme-argon)
+ [`passwall`](https://github.com/xiaorouji/openwrt-passwall)
+ [`openclash`](https://github.com/vernesong/OpenClash)
