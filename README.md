@@ -1,3 +1,6 @@
+## 固件下载
+### 点击[Releases](https://github.com/ZiPenOk/build-actions/releases) 选择最新的版本
+### 点击[Actions](https://github.com/ZiPenOk/build-actions/actions) 下载历史版本
 
 <details>
 <summary>⬆️更新说明（2025年5月30号）</summary>
