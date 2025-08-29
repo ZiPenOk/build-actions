@@ -119,4 +119,4 @@ jobs:
         
     - name: 上传,发布,信息通知
       if: steps.compile.outcome == 'success'
-      uses: 281677160/common@uploads
+      uses: ZiPenOk/commom@main
