@@ -50,3 +50,7 @@ config device
 	option name 'eth0'
 	option ipv6 '0'
 
+config device
+	option name 'pppoe-wan'
+	option ipv6 '0'
+
