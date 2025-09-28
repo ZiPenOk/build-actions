@@ -6,8 +6,8 @@
 
 # 拉库示例
 # Bandix 流量监控
-git clone https://github.com/timsaya/openwrt-bandix.git  package/bandix
-git clone https://github.com/timsaya/luci-app-bandix.git  package/luci-app-bandix
+# git clone https://github.com/timsaya/openwrt-bandix.git  package/bandix
+# git clone https://github.com/timsaya/luci-app-bandix.git  package/luci-app-bandix
 
 # 后台IP设置
 export Ipv4_ipaddr="10.10.10.10"            # 修改openwrt后台地址(填0为关闭)
