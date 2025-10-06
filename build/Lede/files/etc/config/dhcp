@@ -7,7 +7,7 @@ config dnsmasq
 	option local '/lan/'
 	option domain 'lan'
 	option expandhosts '1'
-	option cachesize '8192'
+	option cachesize '0'
 	option authoritative '1'
 	option readethers '1'
 	option leasefile '/tmp/dhcp.leases'
