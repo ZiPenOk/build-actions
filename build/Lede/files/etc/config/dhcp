@@ -24,6 +24,7 @@ config dhcp 'lan'
 	option leasetime '12h'
 	option dhcpv4 'server'
 	list dhcp_option '6,10.10.10.60,221.11.1.68'
+	option force '1'
 
 config dhcp 'wan'
 	option interface 'wan'
