@@ -38,6 +38,7 @@ config odhcpd 'odhcpd'
 
 config host
 	option name 'NAS'
+	list mac '00:E0:4C:68:00:54'
 	list mac '00:E0:4C:69:01:26'
 	option ip '10.10.10.200'
 
