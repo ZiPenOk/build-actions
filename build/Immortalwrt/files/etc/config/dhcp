@@ -23,7 +23,7 @@ config dhcp 'lan'
 	option limit '150'
 	option leasetime '12h'
 	option dhcpv4 'server'
-	list dhcp_option '6,10.10.10.60,221.11.1.68'
+	list dhcp_option '6,10.10.10.80,221.11.1.68'
 	option force '1'
 
 config dhcp 'wan'
@@ -35,9 +35,3 @@ config odhcpd 'odhcpd'
 	option leasefile '/tmp/hosts/odhcpd'
 	option leasetrigger '/usr/sbin/odhcpd-update'
 	option loglevel '4'
-
-config host
-	option name 'NAS'
-	list mac '00:E0:4C:69:01:26'
-	option ip '10.10.10.200'
-
